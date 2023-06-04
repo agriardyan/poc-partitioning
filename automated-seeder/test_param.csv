@@ -1,0 +1,7 @@
+routineCount,samplingCount,maxOpenConn,maxIdleConn,tablename
+1,100,100,10,high_load_prototyping
+2,100,100,10,high_load_prototyping
+5,100,100,10,high_load_prototyping
+10,100,100,10,high_load_prototyping
+100,100,100,10,high_load_prototyping
+500,100,100,10,high_load_prototyping
