@@ -1,0 +1,5 @@
+routineCount,samplingCount,maxOpenConn,maxIdleConn,tablename,withExec
+10,1000,100,10,high_load_prototyping_rowstore,true
+20,1000,100,10,high_load_prototyping_rowstore,true
+10,1000,100,10,high_load_prototyping_colstore,true
+20,1000,100,10,high_load_prototyping_colstore,true

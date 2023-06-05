@@ -1,0 +1,1 @@
+admin:I54dI0gUi71KHLwxivuHtky4isc1rcQL@tcp(svc-fb2d7ab5-d17e-41bd-8ebb-dee98df1836e-dml.aws-jakarta-1.svc.singlestore.com:3306)/test_performance
